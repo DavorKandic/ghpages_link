@@ -1,4 +1,4 @@
 ### Simple web page with links to my others web pages on GH
-___
-| _That's all folks!__ |
-___
+________________________
+| _That's all folks!__  |
+|________________________|_
