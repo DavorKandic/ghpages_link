@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#ui {
+    margin-top: 12%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: goldenrod;
+    display: inline-block;
+    background-color: silver;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bolder;
+    color: brown;
+}
+
+.btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: goldenrod;
+    color: brown;
+    font-weight: bolder;
+    font-size: 36px;
+}
