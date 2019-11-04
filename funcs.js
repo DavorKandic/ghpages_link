@@ -1,5 +1,5 @@
 
 function openInNewTab() {
-  var win = window.open("https://www.google.com", '_blank');
+  var win = window.open("www.google.com", '_blank');
   win.focus();
 }
