@@ -1,0 +1,70 @@
+body {
+    background-color:silver;
+}
+
+h3 {
+    text-align: center;
+    background-color:gold;
+    font-size: 24px;
+    text-shadow: 2px 2px 5px red;
+}
+
+p {
+    background-color: brown;
+    color: lightslategray;
+    font-size: 18px;
+}
+
+li {
+    color: goldenrod;
+    text-align: center;
+    font-weight: 600;
+}
+
+div {
+    padding-top: 10px;
+    background-color: #9370DB;
+    border-radius: 25px;
+}
+
+#cnt {
+    text-align: center;
+    text-shadow: 2px 2px;
+}
+
+#panel {
+    padding: 5px;
+    text-align: center;
+}
+
+#lft {
+    align: left;
+    background-color: red;
+}
+
+#cent {
+    align: center;
+    background-color: green;
+}
+
+#rgt {
+    align: right;
+    background-color: blue;
+}
+
+button {
+    border-radius: 12px;
+    border-color: black;
+    font-weight: 600;
+}
+
+#first {
+    background-color: pink;
+    color: silver;
+    text-shadow: 2px 2px 3px blue;
+}
+
+#hlp {
+    text-align: center;
+    padding: 3px;
+}
