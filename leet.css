@@ -1,0 +1,19 @@
+body {
+background-color: black;
+
+}
+
+dd {
+color: green;
+}
+
+dt {
+    color: goldenrod;
+    font-size:24px;
+    font-weight: bolder;
+}
+
+h3 {
+    text-decoration: underline;
+    text-shadow: 2px 2px 3px white;
+}
